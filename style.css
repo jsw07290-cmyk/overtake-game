@@ -10,3 +10,5 @@
 #powerStatus{position:absolute;top:26px;left:50%;transform:translateX(-50%);color:#ffe3a0;background:#172237c9;border:1px solid #d3b66770;padding:10px 15px;white-space:nowrap;font-size:12px;font-weight:700}@media(max-width:600px){#powerStatus{top:72px;font-size:10px;padding:6px 10px}.playing .score,.playing .timer{top:115px}.playing #streak{top:202px}}
 
 .revealing .speed,.revealing .drivehint,.revealing #streak{opacity:0}.revealing #touch{opacity:.25;pointer-events:none}
+
+#trafficPressure{display:block;font-size:10px;letter-spacing:.5px;color:#efaa9b;margin-top:7px}
